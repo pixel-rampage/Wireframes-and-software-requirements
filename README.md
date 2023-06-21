@@ -4,7 +4,7 @@
 
 ![wireframe](Wireframe.jpg)
 ![wireframe2](Wireframe2.jpg)
-![wireframe3](Wireframe3.jpgg)
+![wireframe3](Wireframe3.jpg)
 
 ## User Stories
 
