@@ -2,9 +2,9 @@
 
 ## Wireframes
 
-![wireframe](images\Wireframe.jpg)
-![wireframe2](images\Wireframe2.jpg)
-![wireframe3](images\Wireframe3.jpg)
+![wireframe](Wireframe.jpg)
+![wireframe2](Wireframe2.jpg)
+![wireframe3](Wireframe3.jpgg)
 
 ## User Stories
 
